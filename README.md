@@ -1,7 +1,9 @@
 # 🧠 Student Mental Health Dashboard (Tableau)
 
 👉 **Where can I see the tool?**
-This Tableau dashboard explores the distribution of **mental health statuses** among students and how they relate to courses, gender, age, and CGPA.
+ 
+You can explore it live here:
+[Student Mental Health Dashboard on Tableau Public](https://public.tableau.com/views/StudentMentalhealth_17049246093570/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -12,6 +14,9 @@ The dashboard is interactive and allows you to filter the data.
 **Available Filter:**
 
 * **Mental Health Status** (Anxiety, Depression, Panic Attack, No Mental Health Challenges)
+
+<img width="1480" height="332" alt="image" src="https://github.com/user-attachments/assets/2d18dfc3-a4d1-4c67-aec9-2cdda62e8eb5" />
+
 
 When you select a mental health status, the dashboard updates to show:
 
