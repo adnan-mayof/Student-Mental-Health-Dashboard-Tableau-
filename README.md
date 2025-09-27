@@ -50,7 +50,7 @@ The dataset includes student records with the following key attributes:
 * **Gender**
 * **Age**
 * **CGPA** (Cumulative Grade Point Average)
-
+📌 Data Source: [Student Mental Health Dataset on Kaggle](https://www.kaggle.com/datasets/shariful07/student-mental-health/data)
 This data is used to reveal **patterns and moderators** of mental health differences across student groups.
 
 ---
